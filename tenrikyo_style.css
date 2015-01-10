@@ -1,0 +1,92 @@
+html {
+	background: #EFFFDE;
+}
+
+.bg-header {
+	width: 95%;
+	background: #EDF9FF;
+	border-color: #DDDDDD;
+    	border-style: solid;
+    	border-width: medium;
+	padding: 25px;
+}
+
+.bg-header img {
+	float: left;
+	height: auto;
+	padding-right: 5px;
+	margin-top: -33px;
+}
+
+.bg-header h1 {
+	color: #C90066;
+	/*color: #4C8700;*/
+	display: inline-block;
+	margin: 0 auto;
+	
+}
+
+/*setting the background page color for the wrapper*/
+div#wrapper {
+	background: #EFFFDE;
+	margin: 0;
+	/*height: 1000px;*/
+	padding: 0 1em;
+	color: #333;
+}
+
+/* page core */
+div#core {
+	display: block;
+	clear: both;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	padding: 12px;
+}
+section#left {
+	height: 200px;
+	float: left;
+	margin-top: 20px;
+	margin: 0 15px;
+}
+section#right {
+	/*float: right;*/
+	width: 750px;
+	/*width: 500px;*/
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+div#results {
+	padding-top: 25px;
+}
+
+/* clearfix */
+/*I'm actually not really sure what clearfix does*/
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+
+html[xmlns] .clearfix {
+	display: block;
+}
+* html .clearfix {
+	height: 1%;
+}
+
+/* footer */
+footer {
+	/*position: absolute;
+	bottom: 0;*/
+	width: 100%;
+	margin-bottom: 20px;
+	font-style: italic;
+	font-size: 8pt;
+}
