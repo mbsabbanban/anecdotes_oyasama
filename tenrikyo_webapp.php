@@ -24,7 +24,7 @@
 	<meta charset="utf-8">
 	<!--Version Number 1.2-->
 	<title>Tenrikyo: Anecdotes of Oyasama</title>
-	<meta name="description" content="Welcome to the homepage of the Tenrikyo Oyasama Anecdotes webapp">
+	<meta name="description" content="Welcome to the Tenrikyo Oyasama Anecdotes webapp">
 	<link rel="stylesheet" type="text/css" href="tenrikyo_style.css"/>
 	<!--Linking to the CSS -->
   </head>
@@ -77,8 +77,10 @@
 			</section>
 		
 			<section id="right">
-				<p>Welcome to the Tenrikyo: Anecdotes of Oyasama Web App! The purpose of this tool is to help you find the specific anecdote that you're looking for without opening the book or consulting your local Reverend.</p>
-				<p>Please note that everything here is an unofficial translation of the actual anecdotes so there may be some inconsistencies.</p>
+				<p>Welcome to the Tenrikyo: Anecdotes of Oyasama Web App! The purpose of this tool is to help you find the specific anecdote that you're looking for without opening the book.</p>
+				<p>Please note that there may be some formatting errors and further differences from the 1976 Official Translation.</p>
+				<br/>
+				<p>When in doubt, please consult with your local reverend or with the official translation.</p>
 			</section>
 		
 			
@@ -180,7 +182,7 @@
 			?>
 	</div>
 	<footer>
-			<p>Please note that the content of this webapp is not affiliated nor does it reflect the views, opinions, stance of Tenrikyo Church Headquarters. Also, please note that all stories are translations from <a href="http://www.tenrikyology.com">'www.tenrikyology.com'</a>. I DID NOT TRANSLATE these stories. These translations do not reflect the OFFICIAL STANCE of Tenrikyo Church Headquarters</p>
+			<p>Please note that the content of this webapp is not affiliated nor does it reflect the views, opinions, stance of Tenrikyo Church Headquarters. Also, please note that all translations are from <a href="http://www.tenrikyology.com">'www.tenrikyology.com'</a>. I DID NOT TRANSLATE these stories. Special thanks to the owner of tenrikyology.com for putting the translated anecdotes online.</p>
 	</footer>
 	</div>
 	
